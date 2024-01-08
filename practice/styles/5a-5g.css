@@ -1,0 +1,209 @@
+/* .tahoma {
+   font-family: Tahoma;
+   font-size: 20px;
+   font-weight: bold;
+ }
+
+ .biggest-deal {
+   width: 250px;
+   font-family: Arial;
+   font-weight: bold;
+   line-height: 24px;
+   font-size: 20px;
+   margin-bottom: 20px;
+
+ }
+
+ .sale {
+   font-weight: lighter;
+   color: red;
+   font-style: italic;
+   font-size: 15px;
+ }
+
+ .html {
+   font-family: Verdana;
+   font-weight: bold;
+   font-size: 15px;
+   margin-bottom: 0px;
+ }
+
+ .beginner {
+   font-family: Verdana;
+   font-size: 13px;
+   color: rgb(96, 96, 96);
+   margin-top: 3px;
+ }
+
+ .description {
+   font-family: Verdana;
+   width: 280px;
+   margin-top: 3px;
+ }
+
+ .get-started {
+   font-family: Verdana;
+   background-color: green;
+   color: white;
+   border: none;
+   border-radius: 3px;
+   padding-top: 7px;
+   padding-bottom: 7px;
+   padding-left: 15px;
+   padding-right: 15px;
+   margin-bottom: 30px;
+ }
+
+ .business {
+   font-family: Arial;
+   text-align: center;
+   font-weight: bold;
+   font-size: 24px;
+   padding-bottom: 0px;
+   margin-bottom: 0px;
+ }
+
+ .apple {
+   padding-top: 0px;
+   margin-top: 12px;
+   margin-bottom: 0px;
+   font-family: Arial;
+   text-align: center;
+   font-size: 12px;
+ }
+
+ .learn-more {
+   margin-top: 12px;
+   font-family: Arial;
+   text-align: center;
+   color: rgb(41, 98, 255);
+   font-size: 12px;
+ } */
+
+
+
+
+
+ /* two different code */
+ /* comment other out to view */
+
+ /* 5e below */
+
+
+
+ /* p {
+   font-family: Arial;
+   text-align: center;
+   margin-top: 0;
+   margin-bottom: 0;
+ }
+
+ .new {
+   color: red;
+   font-size: 15px;
+   margin-bottom: 10px;
+ }
+
+ .macbook {
+   font-weight: bold;
+   font-size: 20px;
+   margin-bottom: 4px;
+ }
+
+ .supercharged {
+   font-weight: bold;
+   font-size: 35px;
+   margin-bottom: 12px;
+ }
+
+ .money {
+   font-size: 15px;
+   margin-bottom: 18px;
+ }
+
+ .buy-button {
+   color: white;
+   background-color: blue;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-right: 14px;
+   padding-left: 14px;
+   border-radius: 14px;
+
+   font-size: 15px;
+   border: none;
+   text-align: center;
+ } */
+
+
+/* two different code */
+/* comment other out to view */
+
+/* 5f below */
+
+
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.money {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.usd {
+  font-size: 12px;
+  color: grey;
+}
+
+.today {
+  color: rgb(18, 113, 18);
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.after-hours {
+  color: grey;
+  font-size: 12px;
+}
+
+.red-money {
+  color: rgb(192, 37, 37);
+}
+
+
+
+
+/* two different code */
+/* comment other out to view */
+
+/* 5g below */
+
+
+
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.code-camp {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.twitter {
+  font-weight: 100;
+  color: grey;
+}
+
+.description {
+  width: 500px;
+  margin-bottom: 20px;
+}
+
+.twitter2 {
+  color: rgb(78, 149, 224);
+}
