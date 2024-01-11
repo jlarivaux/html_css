@@ -1,0 +1,230 @@
+.red-square {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  display: inline-block;
+}
+
+.green-circle {
+  width: 50px;
+  height: 50px;
+  background-color: green;
+  border-radius: 25px;
+  display: inline-block;
+}
+
+.service-box {
+  border-style: solid;
+  border-width: 1px;
+  border-color: grey;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  width: 250px;
+}
+
+.youtube-box{
+  background-color: rgb(45, 45, 45);
+  width: 350px;
+  padding-left: 12px;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  margin-bottom: 20px;
+}
+
+.install-youtube {
+  color: white;
+  font-size: 20px;
+  font-family: cambria;
+  font-weight: bold;
+}
+
+.desktop {
+  color: rgb(236, 222, 222);
+  font-family: cambria;
+}
+
+.twitter-box {
+  width: 400px;
+  padding-top: 5px;
+  padding-left: 15px;
+  padding-bottom: 5px;
+  box-shadow: 4px 4px 5px rgba(0, 0, 0, .15);
+  margin-bottom: 20px;
+}
+
+.newyork4 {
+  width: 50px;
+  height: 50px;
+  border-radius: 75px;
+  object-fit: cover;
+  vertical-align: middle;
+}
+
+.twitter-text {
+  vertical-align: middle;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 8px;
+  padding-right: 80px;
+  border-radius: 15px;
+  color: grey;
+}
+
+.tweet {
+  vertical-align: middle;
+  background-color: rgb(84, 156, 238);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 14px;
+  padding-left: 14px;
+}
+
+.profile1 {
+  width: 150px;
+  box-shadow: 4px 4px 5px rgba(0, 0, 0, .15);
+  display: inline-block;
+}
+
+.newyorkcity {
+  width: 150px;
+  height: 120px;
+  object-fit: cover;
+  margin-bottom: 0px;
+}
+
+.nyc-name {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  font-family: Arial;
+  font-weight: 100;
+  padding-left: 5px;
+}
+
+.nyc-pop {
+  margin-top: 8px;
+  margin-bottom: 0px;
+  color: rgb(83, 81, 81);
+  font-size: 14px;
+  padding-left: 5px;
+}
+
+.view-more {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  padding-left: 5px;
+  background-color: rgb(56, 128, 216);
+  color: white;
+  border: none;
+  border-radius: 2px;
+}
+
+.profile2 {
+  width: 150px;
+  box-shadow: 4px 4px 5px rgba(0, 0, 0, .15);
+  display: inline-block;
+}
+
+.chicago {
+  width: 150px;
+  height: 120px;
+  object-fit: cover;
+  margin-bottom: 0px;
+}
+
+.chi-name {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  font-family: Arial;
+  font-weight: 100;
+  padding-left: 5px;
+}
+
+.chi-pop {
+  margin-top: 8px;
+  margin-bottom: 0px;
+  color: rgb(83, 81, 81);
+  font-size: 14px;
+  padding-left: 5px;
+}
+.profile3 {
+  width: 150px;
+  box-shadow: 4px 4px 5px rgba(0, 0, 0, .15);
+  display: inline-block;
+}
+
+.losangeles {
+  width: 150px;
+  height: 120px;
+  object-fit: cover;
+  margin-bottom: 0px;
+}
+
+.la-name {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  font-family: Arial;
+  font-weight: 100;
+  padding-left: 5px;
+}
+
+.la-pop {
+  margin-top: 8px;
+  margin-bottom: 0px;
+  color: rgb(83, 81, 81);
+  font-size: 14px;
+  padding-left: 5px;
+}
+
+.more-box {
+  display: inline-block;
+}
+
+.google-box {
+  width: 600px;
+}
+
+.google-pic {
+  display: block;
+  width: 400px;
+  margin-left: 100px;
+  margin-bottom: 0px;
+}
+
+.google-search {
+  margin-top: 0px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+  box-shadow: 5px 5px 25px rgba(0, 0, 0, .15);
+  width: 500px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 12px;
+  font-family: Arial;
+  border-radius: 20px;
+  border: none;
+}
+
+.search {
+  margin-left: 160px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border: none;
+  background-color: rgba(128, 128, 128, 0.147);
+}
+
+.lucky {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border: none;
+  background-color: rgba(128, 128, 128, 0.147);
+
+}
