@@ -1,17 +1,21 @@
-.profile1 {
+.profile {
   width: 150px;
   box-shadow: 4px 4px 5px rgba(0, 0, 0, .15);
   display: inline-block;
 }
 
-.newyorkcity {
+.newyorkcity,
+.chicago,
+.losangeles {
   width: 150px;
   height: 120px;
   object-fit: cover;
   margin-bottom: 0px;
 }
 
-.nyc-name {
+.nyc-name,
+.chi-name,
+.la-name {
   margin-top: 5px;
   margin-bottom: 0px;
   font-family: Arial;
@@ -19,7 +23,9 @@
   padding-left: 5px;
 }
 
-.nyc-pop {
+.nyc-pop,
+.chi-pop,
+.la-pop {
   margin-top: 8px;
   margin-bottom: 0px;
   color: rgb(83, 81, 81);
@@ -36,62 +42,4 @@
   color: white;
   border: none;
   border-radius: 2px;
-}
-
-.profile2 {
-  width: 150px;
-  box-shadow: 4px 4px 5px rgba(0, 0, 0, .15);
-  display: inline-block;
-}
-
-.chicago {
-  width: 150px;
-  height: 120px;
-  object-fit: cover;
-  margin-bottom: 0px;
-}
-
-.chi-name {
-  margin-top: 5px;
-  margin-bottom: 0px;
-  font-family: Arial;
-  font-weight: 100;
-  padding-left: 5px;
-}
-
-.chi-pop {
-  margin-top: 8px;
-  margin-bottom: 0px;
-  color: rgb(83, 81, 81);
-  font-size: 14px;
-  padding-left: 5px;
-}
-
-.profile3 {
-  width: 150px;
-  box-shadow: 4px 4px 5px rgba(0, 0, 0, .15);
-  display: inline-block;
-}
-
-.losangeles {
-  width: 150px;
-  height: 120px;
-  object-fit: cover;
-  margin-bottom: 0px;
-}
-
-.la-name {
-  margin-top: 5px;
-  margin-bottom: 0px;
-  font-family: Arial;
-  font-weight: 100;
-  padding-left: 5px;
-}
-
-.la-pop {
-  margin-top: 8px;
-  margin-bottom: 0px;
-  color: rgb(83, 81, 81);
-  font-size: 14px;
-  padding-left: 5px;
-}
+} 
