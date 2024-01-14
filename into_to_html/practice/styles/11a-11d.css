@@ -1,14 +1,13 @@
 .profile-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 170px 170px 170px;
   column-gap: 15px;
   row-gap: 30px;
 }
 
 
 .profile {
-  height: 120px;
-  width: 270px;
+  width: 100%;
   box-shadow: 4px 4px 5px rgba(0, 0, 0, .15);
 }
 
