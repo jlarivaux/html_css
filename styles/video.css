@@ -1,13 +1,3 @@
-p {
-  font-family: Roboto, Arial;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.search-bar {
-  display: block;
-}
-
 .vid-grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -22,8 +12,6 @@ p {
 .thumbnail {
   width: 100%;
 }
-
-/* div class="info row" */
 
 .info-row-grid {
   display: grid;
