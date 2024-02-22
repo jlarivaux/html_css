@@ -1,6 +1,6 @@
 This is a mockup of Youtube.com. There is html and css used.
 
-To view a live version of this site click here: https://jlarivaux.github.io/html_css/
+To view a live version of this site click here: https://jlarivaux.github.io/html_css/youtube.html
 
 All of the code can be found within the 'youtube.hmtl' file.
 
